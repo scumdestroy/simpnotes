@@ -1,0 +1,18 @@
+whoami
+hostname 
+uname -a
+cat /etc/password
+cat /etc/shadow
+groups
+ifconfig
+netstat -an
+ps aux | grep root
+uname -a
+env
+id
+cat /proc/version
+cat /etc/issue
+cat /etc/passwd
+cat /etc/group
+cat /etc/shadow
+cat /etc/hosts
